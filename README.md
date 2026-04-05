@@ -1,6 +1,6 @@
 ## 📎 Live Demo
 
-👉 Open in Colab: [[PEGAR LINK AQUÍ](https://colab.research.google.com/github/marlborito117-maker/conectatel-customer-analysis/blob/main/notebooks/conectatel_customer_analysis.ipynb)]
+👉 Open in Colab: (https://colab.research.google.com/github/marlborito117-maker/conectatel-customer-analysis/blob/main/notebooks/conectatel_customer_analysis.ipynb)
 
 
 # 📊 ConectaTel Customer Analysis
